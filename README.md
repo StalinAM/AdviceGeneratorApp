@@ -75,5 +75,5 @@ const [index, setIndex] = useState([]);
 
 ## Author
 
-- GitHub - [StalinAM](https://www.your-site.com)
+- GitHub - [StalinAM](https://github.com/StalinAM)
 - Frontend Mentor - [@StalinAM](https://www.frontendmentor.io/profile/StalinAM)

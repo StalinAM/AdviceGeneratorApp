@@ -12,7 +12,7 @@ function App() {
         </a>
         . Coded by{" "}
         <a
-          href="https://github.com/StalinAM/InteratingRatingComponent.git"
+          href="https://github.com/StalinAM/adviceGeneratorApp.git"
           target="_blank"
         >
           StalinAM
